@@ -3,6 +3,7 @@ Library Management System application for android.
 
 This project is an Android App which aims to provide a solution to manage a College Book Library. Designed for both Users/Students and Library Admins, various operations such as adding/removing/updating books, searching books, issuing/re-issuing/returning books, adding/removing users y the admin, etc. can be performed. The App uses SQLite under Room Persistence Library as the back-end database for storing details of the Books and Users. 
 
+Admin Id, Password: 123, 123
 Released Signed-APK password: hello123
 
 Screenshots of the application running on an emulator are provided below:
